@@ -20,8 +20,4 @@ class UserController extends Controller
     $clients = Client::select(['id', 'name', 'secret'])->get()->toArray();
     return response($clients);
   }
-
-  public function new() {
-
-  }
 }
