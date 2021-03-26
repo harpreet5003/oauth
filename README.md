@@ -1,10 +1,10 @@
 Client and Laravel server are setup on Heroku:
 
-##Server:
+## Server:
 Server URL:
 https://oauthlaravel.herokuapp.com/
 
-##Client:
+## Client:
 Client URL:
 https://oauthclientphp.herokuapp.com/
 
